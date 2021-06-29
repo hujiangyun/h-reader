@@ -9,17 +9,16 @@
     "小说",
     "摸鱼"
   ],
-  "publisher": "aooiu",
+  "publisher": "hjy",
   "version": "1.0.3",
   "icon": "static/images/icon-green.png",
-  "qna": "https://github.com/aooiuu/z-reader.git/issues",
+  "qna": "https://github.com/hujiangyun/h-reader.git/issues",
   "bugs": {
-    "url": "https://github.com/aooiuu/z-reader.git/issues",
-    "email": "aooiu@qq.com"
+    "url": "https://github.com/hujiangyun/h-reader.git/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/aooiuu/z-reader.git"
+    "url": "https://github.com/hujiangyun/h-reader.git"
   },
   "engines": {
     "vscode": "^1.39.0"
